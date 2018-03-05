@@ -1,0 +1,5 @@
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Model\bin\Debug\FdvBikeRental.Model.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Model\bin\Debug\FdvBikeRental.Model.pdb
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Model\obj\Debug\FdvBikeRental.Model.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Model\obj\Debug\FdvBikeRental.Model.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Model\obj\Debug\FdvBikeRental.Model.pdb

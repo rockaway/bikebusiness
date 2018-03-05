@@ -1,0 +1,7 @@
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.DataAccess.Api\bin\Debug\FdvBikeRental.DataAccess.Api.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.DataAccess.Api\bin\Debug\FdvBikeRental.DataAccess.Api.pdb
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.DataAccess.Api\bin\Debug\FdvBikeRental.Model.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.DataAccess.Api\bin\Debug\FdvBikeRental.Model.pdb
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.DataAccess.Api\obj\Debug\FdvBikeRental.DataAccess.Api.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.DataAccess.Api\obj\Debug\FdvBikeRental.DataAccess.Api.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.DataAccess.Api\obj\Debug\FdvBikeRental.DataAccess.Api.pdb

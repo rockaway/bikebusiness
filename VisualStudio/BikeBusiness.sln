@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{06136E2D-02EA-4B17-A76B-AB5B8E5C5C70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assemblies", "assemblies", "{338F4FE1-69B6-4FDA-9F60-6FBD4AE45016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FdvBikeRental.DataAccess.Api", "assemblies\FdvBikeRental.DataAccess.Api\FdvBikeRental.DataAccess.Api.csproj", "{A7AF15F3-A16C-4A88-B13A-2BA295D3ED14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FdvBikeRental.DataAccess.Implementation", "assemblies\FdvBikeRental.DataAccess.Implementation\FdvBikeRental.DataAccess.Implementation.csproj", "{215474D8-A3DD-464C-8030-F36B799335D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FdvBikeRental.Model", "assemblies\FdvBikeRental.Model\FdvBikeRental.Model.csproj", "{D30878AA-F28A-4FDB-910F-FB1CB8F698C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FdvBikeRental.Service.Api", "assemblies\FdvBikeRental.Service.Api\FdvBikeRental.Service.Api.csproj", "{8661D778-A9F7-46BA-8124-64B13DC71B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FdvBikeRental.Service.Implementation", "assemblies\FdvBikeRental.Service.Implementation\FdvBikeRental.Service.Implementation.csproj", "{3777E3B2-5870-4974-A9AC-0BEE2F066554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FdvBikeRental.UnitTests", "test\FdvBikeRental.UnitTests\FdvBikeRental.UnitTests.csproj", "{2AE78DFF-4472-485E-AA7F-F0F38894DDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7AF15F3-A16C-4A88-B13A-2BA295D3ED14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AF15F3-A16C-4A88-B13A-2BA295D3ED14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AF15F3-A16C-4A88-B13A-2BA295D3ED14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AF15F3-A16C-4A88-B13A-2BA295D3ED14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215474D8-A3DD-464C-8030-F36B799335D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215474D8-A3DD-464C-8030-F36B799335D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215474D8-A3DD-464C-8030-F36B799335D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215474D8-A3DD-464C-8030-F36B799335D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D30878AA-F28A-4FDB-910F-FB1CB8F698C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30878AA-F28A-4FDB-910F-FB1CB8F698C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30878AA-F28A-4FDB-910F-FB1CB8F698C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30878AA-F28A-4FDB-910F-FB1CB8F698C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8661D778-A9F7-46BA-8124-64B13DC71B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8661D778-A9F7-46BA-8124-64B13DC71B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8661D778-A9F7-46BA-8124-64B13DC71B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8661D778-A9F7-46BA-8124-64B13DC71B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3777E3B2-5870-4974-A9AC-0BEE2F066554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3777E3B2-5870-4974-A9AC-0BEE2F066554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3777E3B2-5870-4974-A9AC-0BEE2F066554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3777E3B2-5870-4974-A9AC-0BEE2F066554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE78DFF-4472-485E-AA7F-F0F38894DDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE78DFF-4472-485E-AA7F-F0F38894DDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE78DFF-4472-485E-AA7F-F0F38894DDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE78DFF-4472-485E-AA7F-F0F38894DDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A7AF15F3-A16C-4A88-B13A-2BA295D3ED14} = {338F4FE1-69B6-4FDA-9F60-6FBD4AE45016}
+		{215474D8-A3DD-464C-8030-F36B799335D9} = {338F4FE1-69B6-4FDA-9F60-6FBD4AE45016}
+		{D30878AA-F28A-4FDB-910F-FB1CB8F698C0} = {338F4FE1-69B6-4FDA-9F60-6FBD4AE45016}
+		{8661D778-A9F7-46BA-8124-64B13DC71B58} = {338F4FE1-69B6-4FDA-9F60-6FBD4AE45016}
+		{3777E3B2-5870-4974-A9AC-0BEE2F066554} = {338F4FE1-69B6-4FDA-9F60-6FBD4AE45016}
+		{2AE78DFF-4472-485E-AA7F-F0F38894DDB7} = {06136E2D-02EA-4B17-A76B-AB5B8E5C5C70}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\FdvBikeRental.Service.Api.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\FdvBikeRental.Service.Api.pdb
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\FdvBikeRental.Model.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\System.Web.Http.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\FdvBikeRental.Model.pdb
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\bin\Debug\System.Web.Http.xml
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\obj\Debug\FdvBikeRental.Service.Api.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\obj\Debug\FdvBikeRental.Service.Api.dll
+C:\Users\fabia\Source\Repos\bikebusiness\VisualStudio\assemblies\FdvBikeRental.Service.Api\obj\Debug\FdvBikeRental.Service.Api.pdb
